@@ -1,16 +1,19 @@
-### Hi there 👋
+## RTS Guider
 
-<!--
-**RTS-hb/RTS-hb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+docs：主要描述文档、需求文档、逻辑文档
 
-Here are some ideas to get you started:
+code：代码手册
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+data：数据库手册
+
+
+
+
+
+
+
+
+
+
+
+image should be save in ./assets/
